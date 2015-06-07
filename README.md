@@ -53,3 +53,7 @@ Example: `DisGuiseMe_`, `Minify_`, `hideMe_`, etc.
 However, you are not restricted by above limitation
 
 If you wish, you can name anything as prefix, but may cause CSS bug
+
+# using with ajax served contents
+
+simply use `return Disguiser::disguise($ajaxContent)`
