@@ -2,10 +2,10 @@
 a simple html class name obfuscate + html minify php class
 
 # usage
-see test.php
+move to index.php
 
 # example outputs
-** disguiser disabled **
+**disguiser disabled**
 ```html
 
 <html>
